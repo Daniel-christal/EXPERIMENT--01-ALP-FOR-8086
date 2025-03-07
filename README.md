@@ -128,9 +128,55 @@ HLT
 ## Output  
 ![Screenshot (3)](https://github.com/user-attachments/assets/4b109800-3592-476c-9ff9-98e55ea72a53)
 
+## Program for logical operations:
+## Not alp:
+```
+MOV AL,56H
+MOV BL,74H
+NOT BL
+HLT
+```
+
+## OUTPUT:
+![Screenshot (4)](https://github.com/user-attachments/assets/1dcd74fb-f8bf-42ff-a23b-b48517ea24ff)
+
+## Xor alp:
+```
+MOV AL,45H
+MOV BL,23H
+XOR AL,BL
+HLT
+```
+
+## OUTPUT:
+![Screenshot (5)](https://github.com/user-attachments/assets/203c8a1a-5e13-4ca7-a5ee-f558a68a1b04)
+
+## And alp:
+```
+MOV AL,45H
+MOV BL,26H
+AND AL,BL
+HLT
+```
+
+## OUTPUT:
+![Screenshot (6)](https://github.com/user-attachments/assets/31f8a9c9-165e-46b7-9a6d-da8c1aba24b4)
+
+## Or alp:
+```
+MOV AL,95H
+MOV BL,29H
+OR AL,BL
+HLT
+```
+
+## OUTPUT:
+![Screenshot (7)](https://github.com/user-attachments/assets/64d40cb0-58c2-4bbe-84b5-0ea32cf8bc47)
+
 
 ## Result :
 Thus, ALP for fundamental arithmetic and logical operations are executed successfully.
+
 
 
 
