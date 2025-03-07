@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name :Daniel C
+
 Reg no:212223240023
+
 Date of experiment :
 
 
@@ -128,6 +130,9 @@ HLT
 
 
 ## Result :
+Thus, ALP for fundamental arithmetic and logical operations are executed successfully.
+
+
 
  
 
